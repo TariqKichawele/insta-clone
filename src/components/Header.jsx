@@ -5,7 +5,6 @@ import Image from 'next/image'
 import React from 'react'
 import { IoMdAddCircleOutline } from 'react-icons/io';
 
-
 const Header = () => {
   return (
     <div className='shadow-sm border-b sticky top-0 bg-white z-30 p-3'>
@@ -35,8 +34,9 @@ const Header = () => {
             />
 
             
-
-
+            <button className='text-sm font-semibold text-blue-500'>
+                Log In
+            </button>
         </div>
     </div>
   )
