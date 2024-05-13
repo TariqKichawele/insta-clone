@@ -1,3 +1,28 @@
+# Instagram Clone
+
+Welcome to the Instagram Clone web application! This project replicates the core features of Instagram, allowing users to share photos, follow other users, and engage with content in a familiar social media environment. Built with Next.js, Tailwind CSS, and Firebase.js, this Instagram clone provides a seamless user experience and robust backend infrastructure.
+
+![Screenshot 2024-05-13 at 2 05 52 PM](https://github.com/TariqKichawele/insta-clone/assets/105932024/6a3466c8-0cdd-40c7-a286-e079ba621791)
+
+**TECHNOLOGIES USED**
+
+**Frontend:**
+- Next.js: A React framework for building server-side rendered (SSR) and static web applications.
+- Tailwind CSS: A utility-first CSS framework for styling web interfaces.
+  
+**Backend:**
+- Firebase.js: A platform for building web and mobile applications, providing services like authentication, real-time database, and hosting.
+  
+**Features**
+- User Authentication: Secure user authentication using Firebase Authentication, allowing users to sign up, log in, and log out.
+- Image Sharing: Users can upload and share photos with their followers, enhancing the social experience.
+- Follow/Unfollow: Users can follow and unfollow other users, enabling them to stay connected and engage with their favorite content creators.
+- Timeline Feed: A personalized timeline feed displays photos from users that the current user follows, keeping them updated with the latest posts.
+- Like and Comment: Users can interact with posts by liking and commenting on them, fostering engagement and interaction within the community.
+- Profile Management: Users can update their profile information, including profile picture, bio, and other details.
+- Explore Page: Discover new content and users through an explore page, showcasing popular and trending posts.
+- Real-time Updates: Leveraging Firebase Realtime Database, the application provides real-time updates for likes, comments, and new posts, ensuring a dynamic and engaging user experience.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
